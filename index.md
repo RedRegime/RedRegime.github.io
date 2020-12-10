@@ -7,6 +7,7 @@
 The island of Bosa was settled by the Mercer League nearly sixty years ago. Since that time, it has grown into a self-sustaining community of nearly one hundred vilagers. Situated in inner ring of the Sea's Edge, merchant ships traveling to the Golden Isle will often stop in Bosa to resupply and shelter in the protected harbor.
 
 ![Image](https://user-images.githubusercontent.com/75591540/101708880-76802580-3a4b-11eb-9025-5c97ce27b676.jpg)
+
 Life on the island is prosperous and peaceful, with many members of the community working in the tropical orchards, fishing in the surronding sea, or trading with nearby islands. Since most of the population has migrated here from nations along the Emerald Coast, the lush forests and abundant land is a welcome change their homelands. 
 
 Despite the idealic lifestyles they now enjoy, many inhabitants of Bosa still have memories of The Blood Tide. Twenty years later, a decaying fort is the only monument on the island to the war for the Sea's Edge.
