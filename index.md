@@ -34,4 +34,25 @@ Porthcall is little more than a giant rock off the Emerald coast. The city state
 
 ![Image](https://user-images.githubusercontent.com/75591540/102034741-05f34480-3d7c-11eb-9e27-011ec58b2851.png)
 
+### The Blood Tide 
+A brutal war for control of the Sea's Edge that lasted six years. The five actors in the conflict were the Mercer League, the Wakai Federation, the Tokagi, the nation of Junto, and the city states of Sabara.
+
+### Pact of the Southern Star
+The Blood Tide was stemmed only by the Pact of the Southern Star. The five great powers settled their differences and made a pact to disburse contested islands and commit to respecting historic boundaries.
+
+### Sabara 
+A nation located on the islands along the Straight of Sabara. Also known as the Gateway to the Edge, Sabara holds a significant amount of political and economic power with their control of that waterway. 
+
+### Tokagi 
+Lizard-like humanoids native to the Eastern steppe. They are notoriously stubborn and culturally insular.
+
+
+### Wakai Federation
+
+A loose federation of tribal nations, the Wakai occupy the largest island of the Sea's Edge. They are feared for their ferocity in battle and respected for their integrity in social interactions. 
+
+### Nation of Junto
+
+Not much is known about the nation of Junto. They rarely interact with the outside world and are rumored to be cyclops. They participated in a few battles of the Blood Tide but frequently changed their allegiances during the war. 
+
 
